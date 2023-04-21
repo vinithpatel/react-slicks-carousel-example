@@ -1,0 +1,10 @@
+.slider-bg-container {
+  background-color: #0b0d1b;
+  padding: 40px;
+  min-height: 100vh;
+}
+.planets-heading {
+  color: #05acff;
+  font-family: 'Roboto';
+  text-align: center;
+}
